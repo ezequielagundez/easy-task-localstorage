@@ -1,0 +1,13 @@
+body{
+  background-image: linear-gradient(180deg, #f2bfff 0, #d5aeff 25%, #b99df2 50%, #9e8cd6 75%, #867bbc 100%);
+  font-family: monospace;
+  height: 100vh;
+}
+
+h1{
+  margin: 0px;
+  margin-top: 35px;
+  text-align: center;
+  font-size: 35px;
+  color: #7a42ab;
+}

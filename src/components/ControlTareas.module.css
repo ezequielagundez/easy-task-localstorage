@@ -1,0 +1,35 @@
+.control{
+    background-color: rgba(255, 255, 255, 0.096);
+    width: 408px;
+    height: 41px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid white;
+    margin-top: 50PX;
+}
+
+.btnDelete{
+    width: 100px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.btnDelete:hover{
+    background-color: rgb(0, 0, 0);
+    color: white
+}
+
+.label{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}

@@ -1,0 +1,20 @@
+.tabla{
+    background-color: rgba(255, 255, 255, 0.507);
+    border: 1px solid white;
+    width: 420px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.tarea{
+    color: #1f3e99;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.titulo{
+    color: black;
+    font-size: 17px;
+}
